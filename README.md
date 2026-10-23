@@ -19,7 +19,7 @@ Slash commands: `/bubblefont` (options), `/bubblefont <size>` (set the size), `/
 ## Install
 
 Download `BubbleFontSize-<version>.zip` from the [latest release](../../releases/latest) and extract the
-`BubbleFontSize` folder into `World of Warcraft\_retail_\Interface\AddOns\` (for WoW: Forever, `_classic_beta_` instead of `_retail_`).
+`BubbleFontSize` folder into `World of Warcraft\_retail_\Interface\AddOns\` (for WoW: Forever, `_forever_` instead of `_retail_`).
 
 An addon manager that installs from GitHub releases (e.g. WowUp: *Install from URL* with this repo's URL) can also
 install and update it, **but only if the repository is public**.
